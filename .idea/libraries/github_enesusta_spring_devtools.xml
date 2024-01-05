@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="github.enesusta.spring.devtools" type="repository">
+    <properties maven-id="com.github.enesusta:spring-devtools:1.0.1" />
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/com/github/enesusta/spring-devtools/1.0.1/spring-devtools-1.0.1.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
