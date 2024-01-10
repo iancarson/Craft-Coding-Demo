@@ -15,4 +15,4 @@ public class Player {
   private String birthCity;
   private Integer deathYear;
   private Integer deathMonth;
-  
+  private Integer deathDay;
