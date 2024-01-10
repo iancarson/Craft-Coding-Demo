@@ -17,4 +17,5 @@ public class Player {
   private Integer deathMonth;
   private Integer deathDay;
   private String deathCountry;
+  private String deathState;
   
