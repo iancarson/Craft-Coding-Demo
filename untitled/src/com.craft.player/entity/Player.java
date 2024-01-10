@@ -18,4 +18,4 @@ public class Player {
   private Integer deathDay;
   private String deathCountry;
   private String deathState;
-  
+  private String deathCity;
