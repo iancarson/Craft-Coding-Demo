@@ -14,5 +14,5 @@ public class Player {
   private String birthState;
   private String birthCity;
   private Integer deathYear;
-  
+  private Integer deathMonth;
   
