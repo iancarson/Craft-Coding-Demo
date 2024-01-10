@@ -20,3 +20,4 @@ public class Player {
   private String deathState;
   private String deathCity;
   private String nameFirst;
+  private String nameLast;
