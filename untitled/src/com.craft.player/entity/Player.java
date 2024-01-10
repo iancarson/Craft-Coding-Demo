@@ -21,3 +21,4 @@ public class Player {
   private String deathCity;
   private String nameFirst;
   private String nameLast;
+  private String nameGiven;
