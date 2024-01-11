@@ -23,3 +23,4 @@ public class Player {
   private String nameLast;
   private String nameGiven;
   private int weight;
+  private int height;
