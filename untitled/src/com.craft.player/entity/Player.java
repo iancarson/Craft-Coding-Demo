@@ -25,3 +25,4 @@ public class Player {
   private int weight;
   private int height;
   private String bats;
+  private String bbthrows;
