@@ -27,3 +27,4 @@ public class Player {
   private String bats;
   private String bbthrows;
   private String debut;
+  private String finalGame;
