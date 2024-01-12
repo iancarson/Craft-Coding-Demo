@@ -26,3 +26,4 @@ public class Player {
   private int height;
   private String bats;
   private String bbthrows;
+  private String debut;
