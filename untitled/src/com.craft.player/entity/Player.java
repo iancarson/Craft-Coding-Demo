@@ -28,3 +28,4 @@ public class Player {
   private String bbthrows;
   private String debut;
   private String finalGame;
+  private String retroID;
