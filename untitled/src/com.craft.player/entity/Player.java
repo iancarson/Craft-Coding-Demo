@@ -31,6 +31,12 @@ public class Player {
   private String retroID;
   private String bbrefID.
   
-public String getPlayerID() {
-  return playerID;
-}
+  public String getPlayerID() {
+    return playerID;
+  }
+
+  public void setPlayerId(String playerID)  {
+    return this.playerID = playerID;
+  }
+
+
