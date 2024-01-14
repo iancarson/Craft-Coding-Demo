@@ -30,3 +30,7 @@ public class Player {
   private String finalGame;
   private String retroID;
   private String bbrefID.
+  
+public String getPlayerID() {
+  return playerID;
+}
