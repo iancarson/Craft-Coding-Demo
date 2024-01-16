@@ -18,7 +18,7 @@ public class DBInitializer {
 
     private static final String fileName = "/Users/alpsendil/src/player/src/main/resources/players.csv";
 
-    // comment out so the values are not loaded more than once in DB
+    // comment out so the values are not loaded more than once in D
 //    @Bean
 //    CommandLineRunner initializeDatabase(PlayerRepository repository) {
 //
