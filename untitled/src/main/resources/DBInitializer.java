@@ -11,7 +11,7 @@ import java.io.IOException;
 import java.nio.charset.StandardCharsets;
 import java.util.Scanner;
 
-//@Configuration
+
 public class DBInitializer {
 
     Logger log = LogManager.getLogger(DBInitializer.class);
